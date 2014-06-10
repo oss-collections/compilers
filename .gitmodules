@@ -1,0 +1,6 @@
+[submodule "gcc"]
+	path = gcc
+	url = git://gcc.gnu.org/git/gcc.git
+[submodule "llvm"]
+	path = llvm
+	url = http://llvm.org/git/llvm.git
